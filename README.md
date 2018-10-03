@@ -1,6 +1,8 @@
 # OpenSourceNuclearWarhead (OSNW) 💣 
 Your personal free and open source nuclear warhead for the everyday use! \o/
 
+![Transporting the Nuke to a new location](https://raw.githubusercontent.com/TheDuchy/OpenSourceNuclearWarhead/master/img/transport.jpg)
+
 ## Officially Accepted Soundtrack Themes 🎶 
 
 [![](http://img.youtube.com/vi/KXSUEU7ISfQ/0.jpg)](http://www.youtube.com/watch?v=KXSUEU7ISfQ)
